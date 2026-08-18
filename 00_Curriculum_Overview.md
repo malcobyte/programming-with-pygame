@@ -112,7 +112,11 @@ Each `weeks/week-XX/RUBRIC.md` has:
 | 02 | Sprites & coordinates | Done |
 | 03 | Keyboard movement | Done |
 | 04 | Game loop internals (bouncing ball) | Done |
-| 05–16 | — | Not yet written |
+| 05 | Functions | Done |
+| 06 | Collision detection | Done |
+| 07 | Lists & multiple objects | Done |
+| 08 | Classes & OOP (midpoint checkpoint) | Done |
+| 09–16 | — | Not yet written |
 
 Weeks are built in batches aligned to the phase breaks above (4 at a
 time) so content can be reviewed and course-corrected early rather

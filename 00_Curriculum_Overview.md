@@ -116,7 +116,11 @@ Each `weeks/week-XX/RUBRIC.md` has:
 | 06 | Collision detection | Done |
 | 07 | Lists & multiple objects | Done |
 | 08 | Classes & OOP (midpoint checkpoint) | Done |
-| 09–16 | — | Not yet written |
+| 09 | Sprite sheets & animation | Done |
+| 10 | Sound & score | Done |
+| 11 | Rebuild the input handler | Done |
+| 12 | Rebuild the sprite loader | Done |
+| 13–16 | — | Not yet written |
 
 Weeks are built in batches aligned to the phase breaks above (4 at a
 time) so content can be reviewed and course-corrected early rather

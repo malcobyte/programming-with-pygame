@@ -109,7 +109,10 @@ Each `weeks/week-XX/RUBRIC.md` has:
 | Week | Topic | Status |
 |---|---|---|
 | 01 | First window & game loop | Done |
-| 02–16 | — | Not yet written |
+| 02 | Sprites & coordinates | Done |
+| 03 | Keyboard movement | Done |
+| 04 | Game loop internals (bouncing ball) | Done |
+| 05–16 | — | Not yet written |
 
 Weeks are built in batches aligned to the phase breaks above (4 at a
 time) so content can be reviewed and course-corrected early rather

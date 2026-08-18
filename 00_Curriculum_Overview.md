@@ -104,6 +104,26 @@ Each `weeks/week-XX/RUBRIC.md` has:
    to re-teach*, not just what to mark down.
 3. **Suggested next step** by score pattern.
 
+### Phase 4 format adaptation
+
+Weeks 13–16 aren't teaching a new pygame API each week — they're one
+continuous capstone project, so two sections of the standard format
+are intentionally renamed and repurposed rather than dropped:
+
+- **"Functional example: build this together"** becomes a
+  **process guide** for that week (a design-doc template, a sprint
+  structure, a polish toolkit, a playtest script) instead of a
+  co-built game skeleton — there's no new pygame code to co-write.
+- **"Exercises"** becomes **"Checkpoints"** — a self-check list for
+  the student to verify against during independent work, instead of
+  small standalone `.py` files.
+- **"Weekly project"** is the *same* project all four weeks, not a
+  new one — each week's section describes what should be true of it
+  by the end of that week specifically.
+
+The scoring-categories / signs-of-struggle / next-step shape of each
+`RUBRIC.md` stays the same throughout.
+
 ## Status
 
 | Week | Topic | Status |
@@ -120,8 +140,11 @@ Each `weeks/week-XX/RUBRIC.md` has:
 | 10 | Sound & score | Done |
 | 11 | Rebuild the input handler | Done |
 | 12 | Rebuild the sprite loader | Done |
-| 13–16 | — | Not yet written |
+| 13 | Design & planning | Done |
+| 14 | Build sprint 1 | Done |
+| 15 | Build sprint 2 (polish) | Done |
+| 16 | Presentation, playtest, reflection | Done |
 
-Weeks are built in batches aligned to the phase breaks above (4 at a
-time) so content can be reviewed and course-corrected early rather
-than all at once.
+All 16 weeks are written. Future edits should still be reviewed in
+context rather than assumed correct — see each week's `RUBRIC.md` for
+the intent behind its content.
